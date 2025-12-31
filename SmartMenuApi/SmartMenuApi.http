@@ -1,0 +1,6 @@
+@SmartMenuApi_HostAddress = http://localhost:5014
+
+GET {{SmartMenuApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
